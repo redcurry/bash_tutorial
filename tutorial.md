@@ -1,3 +1,8 @@
+Linux: You're OK if you're using MacOSX; in Windows, you can install cygwin
+or do a dual boot or use a virtual machine. Linux is especially good for
+development because of the active community and development tools,
+good for you to know when you interact with high-performance computing services.
+
 bash in a Unix 'shell,' a command-line interpreter that allows you to enter
 commands that the computer can then run. There are many other shell programs
 available, but bash is widely used and in many cases the default shell.
